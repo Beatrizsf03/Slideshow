@@ -1,4 +1,5 @@
 # Slideshow
-Olá, tudo bem? Fiz esse projeto seguindo a proposta do Fernando Leonid no youtube https://youtu.be/csNYVAS2ex8
+Hello. I did this project following the teachings of Fernando Leonid on youtube. Video link: https://youtu.be/csNYVAS2ex8
+
 
 
